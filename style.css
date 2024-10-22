@@ -1,0 +1,28 @@
+body {
+    background-color: #f7f7f7;
+  }
+  
+  h1 {
+    color: #ffcc00;
+  }
+  
+  .card {
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  .btn-primary {
+    background-color: #ff2a00;
+    border-color: #ff2a00;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ffcc00;
+    border-color: #ffcc00;
+  }
+  
+  #infixOutput {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
